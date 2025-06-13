@@ -1,0 +1,5 @@
+{
+  "name": "AI Mind Map Generator",
+  "description": "An AI-powered mind map generator that takes user text input and visually represents it as a hierarchical mind map using Gemini API and D3.js.",
+  "requestFramePermissions": []
+}
